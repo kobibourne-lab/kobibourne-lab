@@ -24,19 +24,19 @@ An individual desktop application for managing library items, users and orders t
 
 The project uses object-oriented programming, JDBC and CRUD operations, with separate classes for different item types such as books, DVDs and games.
 
-### [Graph & Data Structures Project]()
-Java
-
-A graph-based project developed as part of my Data Structures & Algorithms work.
-
-The graph uses a weighted adjacency matrix to represent connections between locations. The project includes functionality for searching connections, listing connected sites, finding the closest connected site and inserting new weighted connections.
-
 ### [Assembly Text Adventure](https://github.com/kobibourne-lab/Assembly_And_C_2025_2026)
 Assembly
 
 A Star Wars themed room-survival adventure game written in Motorola 68000 Assembly.
 
 The game includes character selection, room navigation, health and power mechanics, enemy encounters, riddles and win/game-over conditions.
+
+### [Graph & Data Structures Project]()
+Java
+
+A graph-based project developed as part of my Data Structures & Algorithms work.
+
+The graph uses a weighted adjacency matrix to represent connections between locations. The project includes functionality for searching connections, listing connected sites, finding the closest connected site and inserting new weighted connections.
 
 ## Technical Skills
 
