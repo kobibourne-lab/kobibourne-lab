@@ -94,4 +94,4 @@ These experiences have helped me develop communication, teamwork, problem solvin
 ## Contact
 
 Email: kobibourne@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/kobi-bourne-420326299/]
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/kobi-bourne-420326299/)
