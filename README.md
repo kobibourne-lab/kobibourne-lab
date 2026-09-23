@@ -31,7 +31,7 @@ A Star Wars themed room-survival adventure game written in Motorola 68000 Assemb
 
 The game includes character selection, room navigation, health and power mechanics, enemy encounters, riddles and win/game-over conditions.
 
-### [Graph & Data Structures Project]()
+### [Graph & Data Structures Project](https://github.com/kobibourne-lab/DSA-Project)
 Java
 
 A graph-based project developed as part of my Data Structures & Algorithms work.
