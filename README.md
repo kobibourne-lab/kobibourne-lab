@@ -1,4 +1,3 @@
-[README-Profile.md](https://github.com/user-attachments/files/32580211/README-Profile.md)
 # Kobi Bourne
 
 ### Software Development Student
